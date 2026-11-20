@@ -1,0 +1,6 @@
+Model,Task,Metric,Score
+Linear Regression,Rating Prediction,MAE,
+Linear Regression,Rating Prediction,RMSE,
+Logistic Regression,Like/Dislike Classification,Accuracy,
+Naive Bayes,Genre Classification,Accuracy,
+SVM,Genre Classification,Accuracy,

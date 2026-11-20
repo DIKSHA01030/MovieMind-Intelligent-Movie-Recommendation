@@ -1,0 +1,11 @@
+movieId,title,genres,content_score,collaborative_score,popularity_score,hybrid_score
+4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,1.0,0.9943160678123996,0.683008647688272,0.9348965498813743
+134853,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy,0.9707949074241755,1.0,0.7214496233267789,0.9296873783774435
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,1.0,0.9103585209072729,0.7573728394979956,0.924582124171781
+162578,Kubo and the Two Strings (2016),Adventure|Animation|Children|Fantasy,0.9635338485932127,1.0,0.7046125832744636,0.9226894409514991
+26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),Adventure|Animation|Children|Drama|Fantasy,0.9333244894150442,1.0,0.776425443329998,0.9219473333735217
+4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,0.9332864249767396,1.0,0.7576225038437505,0.9181677132571199
+108932,The Lego Movie (2014),Action|Adventure|Animation|Children|Comedy|Fantasy,0.9390120706258185,1.0,0.7357094753859992,0.9166479303901092
+3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,1.0,0.8760293687032592,0.7504160662876194,0.9128920238685017
+2138,Watership Down (1978),Adventure|Animation|Children|Drama|Fantasy,0.9333244894150442,0.956422018156182,0.7449770107489972,0.9025842523041762
+6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy,0.8756257888198294,0.9884795167015447,0.7951659557414692,0.8933899405686719

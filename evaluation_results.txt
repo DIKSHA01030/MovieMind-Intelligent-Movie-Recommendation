@@ -1,0 +1,24 @@
+
+MOVIEMIND - MODEL EVALUATION REPORT
+
+Dataset: MovieLens Latest Small
+
+Evaluation Metrics:
+
+MAE: 0.759
+RMSE: 0.9819
+Precision@10: 0.0175
+Recall@10: 0.026
+
+Observations:
+
+1. The model achieved an MAE of 0.759.
+2. RMSE was 0.9819.
+3. Precision@10 was 0.0175.
+4. Recall@10 was 0.026.
+
+Conclusion:
+
+The current collaborative filtering model provides
+initial rating predictions, but its top-10 ranking
+performance needs further improvement.
